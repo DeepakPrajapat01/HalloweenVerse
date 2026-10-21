@@ -1,0 +1,151 @@
+<html xmlns:o='urn:schemas-microsoft-com:office:office' xmlns:w='urn:schemas-microsoft-com:office:word' xmlns='http://www.w3.org/TR/REC-html40'><head><meta charset='utf-8'><title>Text To Word</title></head><body><h1>HalloweenVerse Design System</h1>
+<h2>1. Brand Direction</h2>
+<p>Create a cinematic, immersive, playful Halloween experience.</p>
+<p>The website should feel like an interactive fantasy world rather than a generic business landing page.</p>
+<h2>2. Colors</h2>
+<ul>
+<li>
+<p>Background: #090811</p>
+</li>
+<li>
+<p>Surface: #151322</p>
+</li>
+<li>
+<p>Primary Orange: #FF7518</p>
+</li>
+<li>
+<p>Secondary Purple: #9B5CFF</p>
+</li>
+<li>
+<p>Highlight Gold: #FFD166</p>
+</li>
+<li>
+<p>Main Text: #F8F5FF</p>
+</li>
+<li>
+<p>Muted Text: #B5AEC8</p>
+</li>
+<li>
+<p>Border: #302840</p>
+</li>
+</ul>
+<p>Use color tokens consistently.</p>
+<h2>3. Typography</h2>
+<p>Headings: Space Grotesk.</p>
+<p>Body: Inter.</p>
+<p>Use fluid typography and maintain readable line lengths.</p>
+<h2>4. Components</h2>
+<p>Create reusable components for:</p>
+<ul>
+<li>
+<p>Navigation.</p>
+</li>
+<li>
+<p>Primary and secondary buttons.</p>
+</li>
+<li>
+<p>Feature cards.</p>
+</li>
+<li>
+<p>Location cards.</p>
+</li>
+<li>
+<p>Modal dialogs.</p>
+</li>
+<li>
+<p>Information panels.</p>
+</li>
+<li>
+<p>Game cards.</p>
+</li>
+<li>
+<p>Costume cards.</p>
+</li>
+<li>
+<p>Event cards.</p>
+</li>
+<li>
+<p>Form inputs.</p>
+</li>
+<li>
+<p>Loading indicators.</p>
+</li>
+<li>
+<p>Toast notifications.</p>
+</li>
+<li>
+<p>Footer.</p>
+</li>
+</ul>
+<h2>5. Motion</h2>
+<p>Use motion purposefully for:</p>
+<ul>
+<li>
+<p>Page transitions.</p>
+</li>
+<li>
+<p>Button feedback.</p>
+</li>
+<li>
+<p>Card interactions.</p>
+</li>
+<li>
+<p>Scene entrances.</p>
+</li>
+<li>
+<p>Environmental animations.</p>
+</li>
+</ul>
+<p>Respect reduced-motion settings.</p>
+<p>Do not animate every element simultaneously.</p>
+<h2>6. 3D Visual Direction</h2>
+<p>Use stylized, cohesive assets with a consistent visual style.</p>
+<p>Prioritize:</p>
+<ul>
+<li>
+<p>Recognizable silhouettes.</p>
+</li>
+<li>
+<p>Atmospheric lighting.</p>
+</li>
+<li>
+<p>Efficient geometry.</p>
+</li>
+<li>
+<p>Controlled particle effects.</p>
+</li>
+<li>
+<p>Subtle environmental movement.</p>
+</li>
+<li>
+<p>Readable interactive objects.</p>
+</li>
+</ul>
+<p>Avoid excessive real-time lighting, heavy post-processing, and unnecessary high-polygon assets.</p>
+<h2>7. Responsive Design</h2>
+<p>Design mobile layouts deliberately rather than shrinking desktop layouts.</p>
+<p>Use touch-friendly controls, simplified 3D interactions, and readable text.</p>
+<h2>8. Accessibility</h2>
+<ul>
+<li>
+<p>Maintain readable contrast.</p>
+</li>
+<li>
+<p>Provide keyboard navigation.</p>
+</li>
+<li>
+<p>Add visible focus indicators.</p>
+</li>
+<li>
+<p>Use semantic HTML.</p>
+</li>
+<li>
+<p>Add accessible labels.</p>
+</li>
+<li>
+<p>Avoid flashing effects.</p>
+</li>
+<li>
+<p>Provide text alternatives to essential 3D information.</p>
+</li>
+</ul></body></html>

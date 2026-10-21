@@ -1,0 +1,201 @@
+<html xmlns:o='urn:schemas-microsoft-com:office:office' xmlns:w='urn:schemas-microsoft-com:office:word' xmlns='http://www.w3.org/TR/REC-html40'><head><meta charset='utf-8'><title>Text To Word</title></head><body><h1>Product Requirements Document: HalloweenVerse</h1>
+<h2>1. Product Overview</h2>
+<p>HalloweenVerse is an interactive Halloween discovery platform designed primarily for Indian audiences.</p>
+<p>The platform introduces users to Halloween through immersive 3D exploration, educational storytelling, celebration planning, costume discovery, browser-based games, and curated event listings.</p>
+<p>The product combines the visual appeal of an interactive digital world with the practicality of a festival guide.</p>
+<h2>2. Problem Statement</h2>
+<p>Many Indian users have limited direct experience with Halloween traditions. They may recognize Halloween from films, social media, or popular culture but may not understand its history, traditions, or practical ways to participate.</p>
+<p>Existing informational pages often prioritize text over interactive exploration.</p>
+<p>HalloweenVerse aims to make Halloween easier to understand, more approachable, and more engaging.</p>
+<h2>3. Target Audience</h2>
+<p>Primary audience:</p>
+<ul>
+<li>
+<p>Indian students.</p>
+</li>
+<li>
+<p>College communities.</p>
+</li>
+<li>
+<p>Young adults.</p>
+</li>
+<li>
+<p>People interested in international festivals.</p>
+</li>
+<li>
+<p>Gamers and interactive web experience enthusiasts.</p>
+</li>
+<li>
+<p>Content creators seeking Halloween inspiration.</p>
+</li>
+</ul>
+<p>Secondary audience:</p>
+<ul>
+<li>
+<p>Families seeking Halloween activities.</p>
+</li>
+<li>
+<p>Event organizers.</p>
+</li>
+<li>
+<p>Educational institutions.</p>
+</li>
+<li>
+<p>Communities planning themed celebrations.</p>
+</li>
+</ul>
+<h2>4. Product Objectives</h2>
+<ol>
+<li>
+<p>Explain Halloween in an engaging and accessible way.</p>
+</li>
+<li>
+<p>Deliver a memorable interactive 3D experience.</p>
+</li>
+<li>
+<p>Provide practical celebration ideas suitable for Indian budgets and settings.</p>
+</li>
+<li>
+<p>Offer interactive games that encourage repeat visits.</p>
+</li>
+<li>
+<p>Help users discover verified Halloween events.</p>
+</li>
+<li>
+<p>Deliver a fast, accessible, responsive website.</p>
+</li>
+</ol>
+<h2>5. Core User Journeys</h2>
+<h3>Journey A: First-time Discovery</h3>
+<p>Landing page → Enter Halloween World → Explore a location → Learn about Halloween → Discover celebration ideas.</p>
+<h3>Journey B: Planning a Celebration</h3>
+<p>Landing page → Celebration Planner → Enter preferences and budget → Generate plan → Review activities and materials.</p>
+<h3>Journey C: Entertainment</h3>
+<p>Landing page → Games → Select game → Play → View result → Replay or share.</p>
+<h3>Journey D: Event Discovery</h3>
+<p>Landing page → Events → Select city or category → Review event details → Open the organizer's registration page.</p>
+<h2>6. Minimum Viable Product</h2>
+<p>The initial release must include:</p>
+<ul>
+<li>
+<p>Responsive landing page.</p>
+</li>
+<li>
+<p>Interactive 3D Halloween scene.</p>
+</li>
+<li>
+<p>Educational Halloween guide.</p>
+</li>
+<li>
+<p>Celebration planner.</p>
+</li>
+<li>
+<p>Costume discovery page.</p>
+</li>
+<li>
+<p>At least two functional mini-games.</p>
+</li>
+<li>
+<p>Event listing interface.</p>
+</li>
+<li>
+<p>Mobile navigation.</p>
+</li>
+<li>
+<p>Accessible controls.</p>
+</li>
+<li>
+<p>SEO metadata.</p>
+</li>
+<li>
+<p>Loading, error, and empty states.</p>
+</li>
+</ul>
+<h2>7. Non-Functional Requirements</h2>
+<ul>
+<li>
+<p>Responsive on mobile, tablet, and desktop.</p>
+</li>
+<li>
+<p>Support reduced-motion preferences.</p>
+</li>
+<li>
+<p>Provide a non-3D fallback.</p>
+</li>
+<li>
+<p>Avoid unnecessary large dependencies.</p>
+</li>
+<li>
+<p>Optimize 3D assets and images.</p>
+</li>
+<li>
+<p>Do not autoplay audio.</p>
+</li>
+<li>
+<p>Do not expose secret API keys.</p>
+</li>
+<li>
+<p>Do not display fabricated real-world events.</p>
+</li>
+<li>
+<p>Ensure navigation and controls work using a keyboard.</p>
+</li>
+<li>
+<p>Use semantic HTML and accessible labels.</p>
+</li>
+</ul>
+<h2>8. Success Metrics</h2>
+<p>Track:</p>
+<ul>
+<li>
+<p>Landing-page visits.</p>
+</li>
+<li>
+<p>Clicks on the primary CTA.</p>
+</li>
+<li>
+<p>Visits to educational content.</p>
+</li>
+<li>
+<p>Celebration plans generated.</p>
+</li>
+<li>
+<p>Games started and completed.</p>
+</li>
+<li>
+<p>Event detail visits.</p>
+</li>
+<li>
+<p>Return visitors.</p>
+</li>
+<li>
+<p>Mobile performance.</p>
+</li>
+</ul>
+<p>Do not collect unnecessary personal information.</p>
+<h2>9. Out of Scope for MVP</h2>
+<ul>
+<li>
+<p>Multiplayer 3D environments.</p>
+</li>
+<li>
+<p>User-generated public 3D worlds.</p>
+</li>
+<li>
+<p>Paid ticketing.</p>
+</li>
+<li>
+<p>Real-money transactions.</p>
+</li>
+<li>
+<p>Complex AI-generated experiences.</p>
+</li>
+<li>
+<p>Mandatory user accounts.</p>
+</li>
+<li>
+<p>Native mobile applications.</p>
+</li>
+</ul>
+<h2>10. Product Principle</h2>
+<p>The experience must be visually distinctive, culturally respectful, educational, functional, and usable even on devices that cannot render the full 3D scene.</p></body></html>
